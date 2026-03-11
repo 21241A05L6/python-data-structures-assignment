@@ -1,17 +1,22 @@
-## Assignment 4: File Handling
+## Assignment 5: Modules and Packages
 
-Topics covered:
-- File read/write operations
-- Append mode
-- read(), readline(), readlines()
-- Data extraction from text files
-- File safety checks
+This assignment demonstrates creation and usage of Python modules and packages.
 
-Files:
-task1_write_sales.py  
-task2_read_sales.py  
-task3_append_sales.py  
-task4_summary_report.py  
-task5_products_file.py  
-task6_safe_file_read.py  
-task7_discount_export.py
+Structure:
+
+modules_assignment/
+main.py  
+math_utils.py  
+string_utils.py  
+
+shop_package/
+__init__.py  
+discount.py  
+billing.py  
+
+Concepts used:
+- Creating Python modules
+- Importing modules
+- Creating packages
+- Using __init__.py
+- Importing functions from modules
