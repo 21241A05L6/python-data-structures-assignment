@@ -1,37 +1,17 @@
-# Assignment 3: Functions
+## Assignment 4: File Handling
 
-This assignment demonstrates the use of Python functions and related concepts.
+Topics covered:
+- File read/write operations
+- Append mode
+- read(), readline(), readlines()
+- Data extraction from text files
+- File safety checks
 
-## Topics Covered
-- User-defined functions
-- Recursive functions
-- Lambda functions
-- map()
-- filter()
-- Default arguments
-
-## Files
-
-task1_discount_function.py  
-Implements a function `apply_discount(price, discount_percent=5)` that calculates price after discount.
-
-task2_factorial_recursive.py  
-Implements a recursive function `factorial(n)` that calculates factorial and handles edge cases.
-
-task3_lambda_gst.py  
-Uses a lambda function to calculate price after adding 18% GST.
-
-task4_map_gst.py  
-Uses `map()` with a lambda function to apply GST to a list of prices.
-
-task5_filter_prices.py  
-Uses `filter()` to separate prices greater than 500 and prices less than or equal to 500.
-
-task6_process_prices.py  
-Uses `map()` and `filter()` to apply a 10% discount and then keep only prices greater than 300.
-
-task7_menu_functions.py  
-Implements a simple menu-driven program using functions to:
-- Add price
-- Show average price
-- Show highest price
+Files:
+task1_write_sales.py  
+task2_read_sales.py  
+task3_append_sales.py  
+task4_summary_report.py  
+task5_products_file.py  
+task6_safe_file_read.py  
+task7_discount_export.py
