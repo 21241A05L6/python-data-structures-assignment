@@ -1,20 +1,10 @@
-## Assignment 7: Object Oriented Programming
+## Assignment 8: Streamlit Apps
 
-Concepts covered:
-- Classes and objects
-- Constructors
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- Magic methods
-- Operator overloading
+This assignment demonstrates building simple Streamlit applications.
 
 Files:
-task1_product_class.py  
-task2_encapsulation.py  
-task3_inheritance.py  
-task4_polymorphism.py  
-task5_abstraction.py  
-task6_magic_methods.py  
-task7_inventory_system.py
+
+app_basic.py – Basic greeting app  
+app_discount.py – Discount calculator  
+app_product_form.py – Product form using sidebar  
+app_dashboard.py – Simple sales dashboard with chart
