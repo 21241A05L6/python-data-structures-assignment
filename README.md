@@ -1,15 +1,20 @@
-## Assignment 6: Exception Handling
+## Assignment 7: Object Oriented Programming
 
-Concepts used:
-- try / except
-- multiple except blocks
-- else and finally
-- raising custom exceptions
-- handling built-in exceptions
+Concepts covered:
+- Classes and objects
+- Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Magic methods
+- Operator overloading
 
 Files:
-task1_safe_division.py  
-task2_bill_calculator.py  
-task3_age_validator.py  
-task4_file_reader_exception.py  
-task5_safe_cart.py
+task1_product_class.py  
+task2_encapsulation.py  
+task3_inheritance.py  
+task4_polymorphism.py  
+task5_abstraction.py  
+task6_magic_methods.py  
+task7_inventory_system.py
