@@ -1,17 +1,21 @@
-Assignment 13 - Pre ML Foundations
+# Assignment 14 – Feature Engineering & Pipelines
 
-Files:
-assignment13_pre_ml_eda.py
-dataset.csv
-sample_data.json
+This assignment demonstrates:
 
-Tasks Completed:
-- Load CSV data
-- Load JSON data
-- Load SQL database
-- Simulated API data
-- Data preprocessing
-- Feature preparation
-- Univariate analysis
-- Bivariate analysis
-- Insights
+- Feature Engineering
+- One-Hot Encoding
+- Feature Scaling
+- ColumnTransformer
+- Scikit-learn Pipelines
+
+Dataset is created inside the code.
+
+Tasks covered:
+1. Feature engineering
+2. One-hot encoding
+3. ColumnTransformer
+4. StandardScaler
+5. MinMaxScaler
+6. ML Pipeline
+7. Predictions
+8. Pipeline benefits explanation
