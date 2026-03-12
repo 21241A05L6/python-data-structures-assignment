@@ -1,10 +1,18 @@
-## Assignment 8: Streamlit Apps
+Assignment 9: NumPy Basics
 
-This assignment demonstrates building simple Streamlit applications.
+Concepts used:
+- NumPy array creation
+- Mathematical operations
+- Aggregation functions
+- Statistical calculations
+- Percentiles
+- Sorting
 
 Files:
-
-app_basic.py – Basic greeting app  
-app_discount.py – Discount calculator  
-app_product_form.py – Product form using sidebar  
-app_dashboard.py – Simple sales dashboard with chart
+task1_arrays.py
+task2_math_operations.py
+task3_numpy_formulas.py
+task4_aggregation.py
+task5_statistics.py
+task6_percentiles_sorting.py
+task7_sales_analysis.py
