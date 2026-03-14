@@ -1,21 +1,22 @@
-# Assignment 14 – Feature Engineering & Pipelines
+Assignment 13
 
-This assignment demonstrates:
+Tasks Completed:
 
-- Feature Engineering
-- One-Hot Encoding
-- Feature Scaling
-- ColumnTransformer
-- Scikit-learn Pipelines
+1. Load CSV dataset
+2. Load JSON data
+3. Create SQLite database
+4. Fetch movie data from API
+5. Data understanding
+6. Data cleaning
+7. Feature preparation
+8. Univariate analysis
+9. Bivariate analysis
+10. Insights
 
-Dataset is created inside the code.
-
-Tasks covered:
-1. Feature engineering
-2. One-hot encoding
-3. ColumnTransformer
-4. StandardScaler
-5. MinMaxScaler
-6. ML Pipeline
-7. Predictions
-8. Pipeline benefits explanation
+Libraries used:
+pandas
+sqlite3
+json
+requests
+seaborn
+matplotlib
